@@ -1,21 +1,21 @@
 {
-  "name": "reviewmanagementportal",
+  "name": "reviewmanagement",
   "version": "1.0.0",
   "description": "The Review Management portal is developed to simplify the Review Process.",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gunasekarjabbala/reviewmanagementportal.git"
+    "url": "git+https://github.com/reviewmanagement2018/reviewmanagement.git"
   },
   "author": "Gunasekar Jabbala",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gunasekarjabbala/reviewmanagementportal/issues"
+    "url": "https://github.com/reviewmanagement2018/reviewmanagement/issues"
   },
-  "homepage": "https://github.com/gunasekarjabbala/reviewmanagementportal#readme",
+  "homepage": "https://github.com/reviewmanagement2018/reviewmanagement#readme",
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6"
   },
